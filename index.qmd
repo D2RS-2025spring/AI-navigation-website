@@ -1,0 +1,351 @@
+---
+title: "AI 工具导航"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+---
+
+#        精选 AI 工具大全
+<nav class="category-nav">
+  <a href="#聊天与写作"> 聊天与写作</a>
+  <a href="#图像与设计"> 图像与设计</a>
+  <a href="#视频与音频"> 视频与音频</a>
+</nav>
+
+##  聊天与写作
+
+<div class="tool-grid">
+
+<!-- 聊天写作工具 -->
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://chat.openai.com" class="tool-link" target="_blank">
+    <img src="assets/icons/chatgpt.png" alt="ChatGPT" />
+    <h3>ChatGPT</h3>
+    OpenAI 的智能聊天助手，支持多语言对话。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.anthropic.com" class="tool-link" target="_blank">
+    <img src="assets/icons/claude.png" alt="Claude" />
+    <h3>Claude</h3>
+    Anthropic 的 AI 对话模型，注重安全性。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://poe.com" class="tool-link" target="_blank">
+    <img src="assets/icons/poe.png" alt="Poe" />
+    <h3>Poe</h3>
+    集成多种大模型的智能聊天平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://writesonic.com" class="tool-link" target="_blank">
+    <img src="assets/icons/writesonic.png" alt="Writesonic" />
+    <h3>Writesonic</h3>
+    AI 文章写作和内容生成工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.jasper.ai" class="tool-link" target="_blank">
+    <img src="assets/icons/jasper.png" alt="Jasper" />
+    <h3>Jasper</h3>
+    专业的 AI 营销文案和写作助手。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://inkforall.com" class="tool-link" target="_blank">
+    <img src="assets/icons/ink.png" alt="Ink" />
+    <h3>Ink</h3>
+    结合 SEO 优化的 AI 写作工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://copy.ai" class="tool-link" target="_blank">
+    <img src="assets/icons/copyai.png" alt="Copy.ai" />
+    <h3>Copy.ai</h3>
+    智能生成各种文案和内容。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://rytr.me" class="tool-link" target="_blank">
+    <img src="assets/icons/rytr.png" alt="Rytr" />
+    <h3>Rytr</h3>
+    快速生成文章和营销内容。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://simplified.com" class="tool-link" target="_blank">
+    <img src="assets/icons/simplified.png" alt="Simplified" />
+    <h3>Simplified</h3>
+    多功能写作和设计 AI 平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.quillbot.com" class="tool-link" target="_blank">
+    <img src="assets/icons/quillbot.png" alt="QuillBot" />
+    <h3>QuillBot</h3>
+    智能改写和文本润色工具。
+  </a>
+</div>
+
+</div>
+
+## 图像与设计
+
+<div class="tool-grid">
+
+<!-- 图像设计工具 -->
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.midjourney.com" class="tool-link" target="_blank">
+    <img src="assets/icons/midjourney.png" alt="Midjourney" />
+    <h3>Midjourney</h3>
+    基于 Discord 的 AI 图像生成工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://openai.com/dall-e" class="tool-link" target="_blank">
+    <img src="assets/icons/dalle2.png" alt="DALLE 2" />
+    <h3>DALL·E 2</h3>
+    OpenAI 的图像生成 AI。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://stability.ai" class="tool-link" target="_blank">
+    <img src="assets/icons/stable-diffusion.png" alt="Stable Diffusion" />
+    <h3>Stable Diffusion</h3>
+    开源 AI 图像生成模型。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://deepart.io" class="tool-link" target="_blank">
+    <img src="assets/icons/deepart.png" alt="DeepArt" />
+    <h3>DeepArt</h3>
+    基于 AI 的艺术图像生成平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://runwayml.com" class="tool-link" target="_blank">
+    <img src="assets/icons/runway.png" alt="Runway" />
+    <h3>Runway</h3>
+    强大的 AI 视频与图像工具平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://letsenhance.io" class="tool-link" target="_blank">
+    <img src="assets/icons/letsenhance.png" alt="LetsEnhance" />
+    <h3>LetsEnhance</h3>
+    AI 图片放大和修复工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://remove.bg" class="tool-link" target="_blank">
+    <img src="assets/icons/removebg.png" alt="Remove.bg" />
+    <h3>Remove.bg</h3>
+    自动去除图片背景的 AI 工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://photodiva.net" class="tool-link" target="_blank">
+    <img src="assets/icons/photodiva.png" alt="PhotoDiva" />
+    <h3>PhotoDiva</h3>
+    AI 人像修饰软件。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://prisma-ai.com" class="tool-link" target="_blank">
+    <img src="assets/icons/prisma.png" alt="Prisma" />
+    <h3>Prisma</h3>
+    将照片转为艺术风格的 AI 工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://artbreeder.com" class="tool-link" target="_blank">
+    <img src="assets/icons/artbreeder.png" alt="Artbreeder" />
+    <h3>Artbreeder</h3>
+    AI 图像合成与编辑平台。
+  </a>
+</div>
+
+</div>
+
+## 视频与音频
+
+<div class="tool-grid">
+
+<!-- 视频音频工具 -->
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.synthesia.io" class="tool-link" target="_blank">
+    <img src="assets/icons/synthesia.png" alt="Synthesia" />
+    <h3>Synthesia</h3>
+    AI 驱动的视频合成平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://lumen5.com" class="tool-link" target="_blank">
+    <img src="assets/icons/lumen5.png" alt="Lumen5" />
+    <h3>Lumen5</h3>
+    自动生成营销视频的 AI 工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.descript.com" class="tool-link" target="_blank">
+    <img src="assets/icons/descript.png" alt="Descript" />
+    <h3>Descript</h3>
+    音视频编辑和转录的 AI 平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://animoto.com" class="tool-link" target="_blank">
+    <img src="assets/icons/animoto.png" alt="Animoto" />
+    <h3>Animoto</h3>
+    简易视频制作工具。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://magisto.com" class="tool-link" target="_blank">
+    <img src="assets/icons/magisto.png" alt="Magisto" />
+    <h3>Magisto</h3>
+    AI 视频剪辑和制作平台。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://respeecher.com" class="tool-link" target="_blank">
+    <img src="assets/icons/respeecher.png" alt="Respeecher" />
+    <h3>Respeecher</h3>
+    声音克隆和语音转换 AI。
+  </a>
+</div>
+
+<div class="tool-card">
+<button class="favorite-btn" aria-label="收藏">
+    ★
+  </button>
+  <a href="https://www.audacityteam.org" class="tool-link" target="_blank">
+    <img src="assets/icons/audacity.png" alt="Audacity" />
+    <h3>Audacity</h3>
+    开源音频编辑软件。
+  </a>
+
+<button id="back-to-top" aria-label="返回顶部" title="返回顶部">⬆</button>
+
+<script>
+  const backToTopBtn = document.getElementById('back-to-top');
+
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 200) {
+      backToTopBtn.style.display = 'block';
+    } else {
+      backToTopBtn.style.display = 'none';
+    }
+  });
+
+  backToTopBtn.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+</script>
+
